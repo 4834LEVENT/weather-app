@@ -1,0 +1,14 @@
+.container{
+    background-color: rgba(184, 183, 183, 0.475);
+}
+body{
+    background-image: url("https://www.presentationpoint.com/wp-content/uploads/2019/02/dphdwep.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh !important;
+}
+article{
+    max-width: 35% !important;
+    background-color: white;
+    max-height: 100vh !important;
+}
